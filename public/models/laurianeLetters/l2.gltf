@@ -1,0 +1,153 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "l",
+            "rotation" : [
+                0.4473235011100769,
+                0.5476330518722534,
+                -0.5476328134536743,
+                0.4473232328891754
+            ],
+            "scale" : [
+                0.24178439378738403,
+                0.24178436398506165,
+                0.24178442358970642
+            ],
+            "translation" : [
+                -0.18665096163749695,
+                0.33963942527770996,
+                1.05769944190979
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorFactor" : [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "laurianeg\u00e9l\u00e9bart.012",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.7814190983772278,
+                    0.5158330798149109,
+                    0.004567083436995745,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4101123511791229
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Text.013",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 26,
+            "max" : [
+                -0.439468652009964,
+                0.05000000447034836,
+                0.7938640713691711
+            ],
+            "min" : [
+                -0.8764504194259644,
+                -0.05000000447034836,
+                0.24742954969406128
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 26,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 26,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 60,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 312,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 312,
+            "byteOffset" : 312,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 208,
+            "byteOffset" : 624,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 120,
+            "byteOffset" : 832,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 952,
+            "uri" : "l2.bin"
+        }
+    ]
+}

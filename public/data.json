@@ -1,0 +1,814 @@
+{
+    "accueil": {
+        "title": "- Étudiante ingénieure en multimédia -"
+    },
+    "nav": [
+        "Qui suis-je ?",
+        "Réalisations",
+        "Contact"
+    ],
+    "aPropos": {
+        "title": "Qui suis-je ?",
+        "description": "Moi, c’est Lauriane Gélébart. J’ai 22 ans et je suis originaire d’une petite ville du bout du Finistère. Après un bac S (Sciences de l'Ingénieur) et un DUT MMI (Métiers du Multimédia et de l'Internet), je suis partie à Paris pour suivre la formation d’ingénieur IMAC (Image, Multimédia, Audiovisuel, Communication) au sein de l'ESIEE-Paris. Durant mes études, j'ai découvert que j’adore travailler en équipe, créer, programmer et donner vie à des idées. À l'IMAC, je suis une formation mêlant l'art et les sciences. Ce portfolio vous présente certains de mes travaux.",
+        "cv": "VOIR MON CV"
+    },
+    "footer": {
+        "mentions": "Mentions légales",
+        "git": "Mon GitHub",
+        "insta": "Mon Instagram",
+        "mail": "Mon email",
+        "linkedin": "Mon LinkedIn"
+    },
+    "projects": [
+        {
+            "display": "OK",
+            "name": "Créations Blender",
+            "date": "2021 - 2023 | Personnel & IMAC S3",
+            "description": "Voici un exemple de mes travaux réalisés sur le logiciel <strong>Blender</strong>. C'est un logiciel que je manipule depuis plusieurs années, que ce soit pour créer des compositions et des objets <strong>photo-réalistes</strong> ou des décors en <strong>low poly</strong>.",
+            "img": [
+                {
+                    "src": "chambre2.JPG",
+                    "alt": "Chambre photo-réaliste avec un travail sur la lumière."
+                },
+                {
+                    "src": "chambre2.JPG",
+                    "alt": "Chambre photo-réaliste avec un travail sur la lumière."
+                },
+                {
+                    "src": "switch.png",
+                    "alt": "Nintendo Switch avec personnalisation Pokémon."
+                },
+                {
+                    "src": "champignon2.png",
+                    "alt": "Maison champignon pleine de détails en low-poly."
+                }
+            ],
+            "tags": [
+                "3D",
+                "Blender"
+            ],
+            "software": [
+                "Blender"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "TechnoAddict",
+            "date": "Décembre 2020 | MMI S3",
+            "description": "Le magazine fictif Techno Addict et son article sur Google Maps sont un projet de <strong>PAO et d'anglais</strong> réalisé avec une camarade lors de mon DUT. La PAO a été faite sur <strong>Affinity Publisher</strong> et les dessins sur <strong>Affinity Designer</strong>. Le but était de créer quelque chose de fun, respectant la charte graphique de Google.",
+            "img": [
+                {
+                    "src": "techno.png",
+                    "alt": "Couverture d'un magazine nommé TechnoAddict. L'article en première page parle de la révolution de Google Maps."
+                },
+                {
+                    "src": "techno.png",
+                    "alt": "Couverture d'un magazine nommé TechnoAddict. L'article en première page parle de la révolution de Google Maps."
+                },
+                {
+                    "src": "page13.JPG",
+                    "alt": "Double page avec un titre : The Google Maps Revolution. Tout cela dans les couleurs rouge, vert, jaune et bleu de Google."
+                },
+                {
+                    "src": "page3.JPG",
+                    "alt": "Double page avec des chiffres en couleur, une partie fun-facts, une citation, une liste à puces. Tout cela dans les couleurs rouge, vert, jaune et bleu de Google."
+                }
+            ],
+            "tags": [
+                "PAO",
+                "Écriture"
+            ],
+            "software": [
+                "Affinity Publisher",
+                "Affinity Designer"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "https://laurianegelebart.fr/comingSoon.html",
+                "file": "",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "EPH",
+            "date": "Octobre-Novembre 2022 | IMAC S3",
+            "description": "EPH est un court métrage réalisé dans le cadre du cours d'audiovisuel de mon troisième semestre à l'IMAC. Le sujet du film devait porter une <strong>réflexion sur le transhumanisme</strong>. Avec mon groupe de 4 personnes, nous avons réalisé EPH. Durant ce projet, j'étais principalement <strong>scénariste</strong> et <strong>cadreur</strong>, mais j'ai aussi participé activement au décor et je me suis occupée de la <strong>colorimétrie</strong> en post-production.",
+            "img": [
+                {
+                    "src": "mockup_eph.png",
+                    "alt": "Trois visages de jeunes adultes mis en parallèle."
+                },
+                {
+                    "src": "EPH2.png",
+                    "alt": "Trois visages de jeunes adultes mis en parallèle."
+                },
+                {
+                    "src": "EPH3.png",
+                    "alt": "Trois visages de jeunes adultes mis en parallèle."
+                },
+                {
+                    "src": "EPH4.jpg",
+                    "alt": "Trois visages de jeunes adultes mis en parallèle."
+                }
+            ],
+            "tags": [
+                "Court-métrage",
+                "Écriture"
+            ],
+            "software": [
+                "Davinci Resolve"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "",
+                "video": "https://www.youtube.com/watch?v=uS-vo39jx9I",
+                "git": ""
+            }
+        },
+        {
+            "display": "KO",
+            "name": "Motion Design Web TV",
+            "date": "Février 2021 | MMI S4",
+            "description": "J'ai réalisé ce générique d'une émission de web TV via la page Fusion du logiciel <strong>Davinci Resolve</strong>.",
+            "img": [
+                {
+                    "src": "mockup_webtv.jpg",
+                    "alt": "Rond vert avec écrit à l'intérieur webTV, d'autres demi-ronds sont autour."
+                }
+            ],
+            "tags": [
+                "Motion Design"
+            ],
+            "software": [
+                "Davinci Resolve"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "",
+                "video": "https://www.youtube.com/watch?v=uS-vo39jx9I&embeds_referring_euri=https%3A%2F%2Flaurianegelebart.fr%2F&source_ve_path=MzY4NDIsMjg2NjY&feature=emb_logo",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Kool Krabs",
+            "date": "Février 2023 | Perso",
+            "description": "J'ai conçu le jeu Kool Krabs en duo lors d'une game jam. Nous avions <strong>48 heures pour créer un jeu vidéo</strong> sur le thème \"Pause\" et avec pour contrainte \"Ne pas mettre de personnages humains\". Tout a été fait par nous, des designs, à la musique en passant bien sûr par le code. Celui-ci est fait en <strong>JavaScript</strong> et fonctionne dans un canvas HTML.",
+            "img": [
+                {
+                    "src": "krab.png",
+                    "alt": "Dessin vectoriel d'un crabe orange qui sourit et écriture stylisée du nom du jeu : Kool Krabs avec des K pour commencer les mots"
+                },
+                {
+                    "src": "krab1.png",
+                    "alt": "Dessin vectoriel d'un crabe orange qui sourit et écriture stylisée du nom du jeu : Kool Krabs avec des K pour commencer les mots"
+                },
+                {
+                    "src": "krab2.png",
+                    "alt": "Dessin vectoriel d'un crabe orange qui sourit et écriture stylisée du nom du jeu : Kool Krabs avec des K pour commencer les mots"
+                },
+                {
+                    "src": "krab3.png",
+                    "alt": "Dessin vectoriel d'un crabe orange qui sourit et écriture stylisée du nom du jeu : Kool Krabs avec des K pour commencer les mots"
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "Jeu",
+                "Design"
+            ],
+            "software": [
+                "Affinity Designer"
+            ],
+            "language": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "links": {
+                "demonstrator": "",
+                "project": "https://www.chateauouessant.fr/KoolKrabs/",
+                "file": "",
+                "video": "",
+                "git": "https://github.com/LaurianeGelebart/crab_game"
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Modélisation photoréaliste",
+            "date": "Décembre 2022 | IMAC S3",
+            "description": "Cette courte vidéo a été réalisée via <strong>Blender</strong> dans le cadre de mes cours de <strong>création 3D</strong>. La consigne était de modéliser un décor avec un cercle au milieu et d'en faire une vidéo de 4 secondes. Les 4 secondes d'animation de toute la promo ont ensuite été montées pour réaliser une vidéo. Je suis partie sur l'idée d'un décor western en rendu photoréaliste, cela a demandé beaucoup de travail de <strong>modélisation, lighting et texturing</strong>.",
+            "img": [
+                {
+                    "src": "western.png",
+                    "alt": "Décor type western réalisé en 3D."
+                },
+                {
+                    "src": "western.gif",
+                    "alt": "Décor type western réalisé en 3D avec un mouvement de caméra vers l'avant."
+                },
+                {
+                    "src": "western1.png",
+                    "alt": "Décor type western réalisé en 3D, image du logiciel Blender avec la composition vue du dessus."
+                },
+                {
+                    "src": "western2.png",
+                    "alt": "Décor type western réalisé en 3D, image du logiciel Blender avec la composition vue du dessus.."
+                }
+            ],
+            "tags": [
+                "3D",
+                "Blender"
+            ],
+            "software": [
+                "Blender"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "",
+                "video": "https://vimeo.com/787840222",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Web documentaire : Amoco Cadiz",
+            "date": "Février-Avril 2021 | MMI S4",
+            "description": "Pour un cours de création graphique, j'ai conçu ce <strong>web documentaire retraçant l'histoire du naufrage de l'Amoco Cadiz</strong>. Le but était de faire découvrir le naufrage, et ses dramatiques conséquences, au travers d'une application multimédia interactive. Le site a été codé en <strong>HTML/CSS et JavaScript (jQuery)</strong>. J'ai réalisé les designs, via <strong>Photoshop et Affinity Designer</strong> ; j'ai aussi fait du montage sur Davinci Resolve. Cette application a remporté le <strong>3ème prix du Festival MMI 2021</strong> dans la catégorie principale.",
+            "img": [
+                {
+                    "src": "amoco.png",
+                    "alt": "Ordinateur sur une application nommée Amoco Cadiz Histoire d'une marée noire. Image d'une plage noire avec un homme avec un sirène jaune. Pictogrammes de navigationOrdinateur sur une application nommée Amoco Cadiz Histoire d'une marée noire. Image d'une plage noire avec un homme avec un sirène jaune. Pictogrammes de navigation"
+                },
+                {
+                    "src": "amoco1.png",
+                    "alt": "carte de Bretagne interactive style ancien"
+                },
+                {
+                    "src": "amoco2.png",
+                    "alt": "Page de l'application avec une image d'une ancienne télévision avec un l'intérieur une vidéo"
+                },
+                {
+                    "src": "amoco3.png",
+                    "alt": "drag and drop de marées noires dans des cadres anciens avec en dessous le nombre de tonne relié."
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "UX Design",
+                "Web"
+            ],
+            "software": [
+                "Affinity Designer",
+                "Photoshop",
+                "Blender",
+                "Davinci Resolve"
+            ],
+            "language": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "links": {
+                "demonstrator": "https://www.youtube.com/watch?v=7ZnMMbKHAAY",
+                "project": "https://laurianegelebart.fr/amoco/",
+                "file": "",
+                "video": "",
+                "git": "https://github.com/LaurianeGelebart/Amoco_Cadiz"
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Mona Was Alone",
+            "date": "Avril-Mai 2022 | IMAC S2",
+            "description": "Mona Was Alone est un jeu inspiré du <strong>jeu de plates-formes</strong> Thomas Was Alone. J'ai développé ce jeu au sein d'une équipe de 3 personnes dans le cadre de mes cours de <strong>synthèse d'images, d'algorithmique et programmation C++</strong>. Le but du jeu est de permettre aux tableaux de retrouver leur place dans le musée. Le jeu est codé en <strong>C/C++</strong> avec les bibliothèques <strong>OpenGL</strong>. Sur ce projet, j'ai principalement été chargé de développer la structure et l'environnement de jeu, ainsi que la gestion des collisions, mais c'est également moi qui ai créé une bonne partie des visuels du jeu.",
+            "img": [
+                {
+                    "src": "mockup_mona.png",
+                    "alt": "Jeu de plates-formes avec des peintures."
+                },
+                {
+                    "src": "mona1.png",
+                    "alt": "Jeu de plates-formes avec des peintures."
+                },
+                {
+                    "src": "mona2.png",
+                    "alt": "Jeu de plates-formes avec des peintures."
+                },
+                {
+                    "src": "mona3.png",
+                    "alt": "Jeu de plates-formes avec des peintures."
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "Jeu",
+                "OpenGL"
+            ],
+            "software": [
+                "Affinity Designer"
+            ],
+            "language": [
+                "C++",
+                "OpenGL"
+            ],
+            "links": {
+                "demonstrator": "https://www.youtube.com/watch?v=AUR3r4ZZgsQ",
+                "project": "",
+                "file": "",
+                "video": "",
+                "git": "https://github.com/LaurianeGelebart/mona_was_alone"
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Art Algorithmique",
+            "date": "Février-Mars 2022 | IMAC S2",
+            "description": "C'est dans le cadre d'un cours d'<strong>esthétique algorithmique</strong> que j'ai réalisé ce tableau interactif. Le but de ce travail, fait en binôme, était de créer une réinterprétation d'une œuvre d'art. Nous avons choisi P18 de Manfred Mohr. Il a ensuite fallu deviner l'algorithme caché derrière et tenter de le reproduire. Notre programme fonctionne via un <strong>programme basé sur de l'aléatoire codé en P5.js</strong>. Nous avons ajouté au tableau original une <strong>interactivité</strong> de changement de couleur et de thickness suivant le curseur de la souris. Puis la deuxième partie du projet a été <strong>d'entraîner un GAN</strong> sur le modèle de notre tableau, via le principe du <strong>deep learning</strong>.",
+            "img": [
+                {
+                    "src": "mockup_p18.png",
+                    "alt": "Tableau fait de lignes qui se croisent."
+                },
+                {
+                    "src": "P181.png",
+                    "alt": "Tableau fait de lignes qui se croisent."
+                },
+                {
+                    "src": "P182.png",
+                    "alt": "Tableau fait de lignes qui se croisent avec un autre arrangement et dont les couleurs sont inversées."
+                },
+                {
+                    "src": "P183.gif",
+                    "alt": "Entraînement d'un GAN, gif des différentes récurrences."
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "Art",
+                "Deep Learning"
+            ],
+            "software": [],
+            "language": [
+                "JavaScript",
+                "P5.js"
+            ],
+            "links": {
+                "demonstrator": "",
+                "project": "https://laurianegelebart.fr/p18.html",
+                "file": "https://laurianegelebart.fr/projects/P18.pdf",
+                "video": "",
+                "git": "https://github.com/LaurianeGelebart/Recoding_P-18"
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Logo Le Monde d'AhlFa",
+            "date": "Juillet 2021 | Perso",
+            "description": "J'ai conçu ce logo et ses déclinaisons pour Le Monde d'AhlFa, l'entreprise d'une comportementaliste animal. Ils ont été réalisés sur le logiciel <strong>Affinity Designer</strong>.",
+            "img": [
+                {
+                    "src": "mockup_ahlfa.png",
+                    "alt": "Carte de visite avec le logo d'un chien et d'un chat dessinés en un seul trait."
+                },
+                {
+                    "src": "ahlfa.png",
+                    "alt": "Logo : un chien et un chat dessiné en un trait qui se continue en écrivant Le Monde d'AhlFa. En dessous il est écrit en vert Éducation canine et comportement animal."
+                },
+                {
+                    "src": "ahlfa_rond.png",
+                    "alt": "Logo rond, le trait au lieu d'écrire Le Monde d'AhlFa entoure le dessin."
+                },
+                {
+                    "src": "mockup_ahlfa.png",
+                    "alt": "Carte de visite avec le logo d'un chien et d'un chat dessinés en un seul trait."
+                }
+            ],
+            "tags": [
+                "Design"
+            ],
+            "software": [
+                "Affinity Designer"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Le Meilleur des Mondes Possibles",
+            "date": "Octobre 2021 | IMAC S1",
+            "description": "Lors d'une <strong>semaine de workshop d'écriture</strong>, j'ai conçu ce livre de 128 pages, retraçant jour par jour 2 mois de ma vie; cela au travers de la <strong>description de l'implicite et de l'explicite de photos</strong>. Le 20 mai 2018, j’ai commencé à prendre une photo de moi par jour, présenté de cette façon, ça peut paraître très égocentrique, mais le but n’est pas tant de me prendre en photo, mais plutôt de marquer le temps. Ainsi, j'ai été capable de raconter en détails 61 jours de ma vie un an plus tard. C'était un <strong>travail d'écriture introspectif</strong>. Il a été suivi d'un <strong>travail de mise en forme</strong> sur Affinity Publisher.",
+            "img": [
+                {
+                    "src": "mockup_lmdmp.png",
+                    "alt": "Livre avec une couverture : Le Meilleur des Mondes Possibles, écrit en noir sur un fond blanc. Le livre ouvert contient d'un côté la photo de Lauriane de l'autre une date et un texte."
+                },
+                {
+                    "src": "mockup_lmdmp.png",
+                    "alt": "Livre avec une couverture : Le Meilleur des Mondes Possibles, écrit en noir sur un fond blanc. Le livre ouvert contient d'un côté la photo de Lauriane de l'autre une date et un texte."
+                },
+                {
+                    "src": "lmdmp2.png",
+                    "alt": "Page d'avant-propos, d'un côté une mosaïque de photos de l'autre le texte."
+                },
+                {
+                    "src": "lmdmp3.png",
+                    "alt": "Page d'un côté photo de Lauriane avec un masque de l'autre un texte."
+                }
+            ],
+            "tags": [
+                "Ecriture",
+                "PAO"
+            ],
+            "software": [
+                "InDesign"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "https://www.calameo.com/read/006897132d7b8a76a069a?page=1",
+                "file": "",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Allo La Terre",
+            "date": "Novembre-Décembre 2021 | IMAC S1",
+            "description": "Allo La Terre est un court-métrage réalisé dans le cadre du cours d'audiovisuel de mon <strong>premier semestre à l'IMAC</strong>. Le sujet du film était libre et avec mon groupe de 6, nous avons créé Allo La Terre. Nous avions plus ou moins un rôle défini, mais chacun donnait son avis sur le scénario et participait au décor. J'ai été assistante lumière sur le tournage et ai monté l'intégralité du court-métrage en en faisant également la <strong>colorimétrie</strong>. Le montage s'est fait sur <strong>Davinci Resolve</strong>, et m'a demandé de remodeler une partie du découpage technique. Nous avons remporté un <strong>prix de Direction artistique</strong> lors du concours de court-métrages interne à l'école.",
+            "img": [
+                {
+                    "src": "mockup_allo.png",
+                    "alt": "Image du court-métrage, un jeune homme dans un décor fantastique éclairé de lumières rose et bleue."
+                },
+                {
+                    "src": "allo1.png",
+                    "alt": "Image du court-métrage, un jeune homme assis devant une machine fantastique éclairé de lumières rose et bleue."
+                },
+                {
+                    "src": "allo2.png",
+                    "alt": "Image du court-métrage, deux jeunes hommes dans un décor fantastique éclairé de lumières rose et bleue."
+                },
+                {
+                    "src": "finTounage.png",
+                    "alt": "Fin de tournage équipe dans le décor."
+                }
+            ],
+            "tags": [
+                "Court-métrage"
+            ],
+            "software": [
+                "Davinci Resolve"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "",
+                "video": "https://www.youtube.com/watch?v=pxgLOpBYvPk",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "ARG : A la Racine",
+            "date": "Février-Mars 2022 | IMAC S2",
+            "description": "Dans le cadre d'un <strong>cours de communication</strong> de mon deuxième semestre à l'IMAC, j'ai conçu un ARG (Alternate Reality Game) avec mon groupe de 4 étudiants. Le but était de monter un dossier dévoilant point par point le déroulé de ce dernier. Nous avons imaginé A la Racine, une histoire d'arbres apparus sans raisons devant les bâtiments universitaires un matin. Le but : <strong>promouvoir l'IMAC avec cet ARG</strong>. Ainsi, nous avons dû créer du contenu en lien avec la formation et ses valeurs.",
+            "img": [
+                {
+                    "src": "mockup_arg.png",
+                    "alt": "Dossier A la Racine."
+                },
+                {
+                    "src": "mockup_arg.png",
+                    "alt": "Dossier A la Racine."
+                },
+                {
+                    "src": "arg_doc2.jpg",
+                    "alt": "Sommaire: introduction backstory, énigmes, complément d'informations."
+                },
+                {
+                    "src": "arg_doc3.jpg",
+                    "alt": "Page 3 lire le dossier."
+                }
+            ],
+            "tags": [
+                "Communication",
+                "PAO",
+                "Jeu"
+            ],
+            "software": [
+                "InDesign",
+                "Photoshop"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "https://laurianegelebart.fr/projects/ARG.pdf",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Train interactif",
+            "date": "Février-Avril 2021 | MMI S4",
+            "description": "Ce train 3D est une interface créée pour un cours de <strong>3D interactive</strong>. Le but était de développer des interactions autour d'un objet 3D. J'ai ainsi choisi ce railway, je lui ai créé différentes textures sur Photoshop. Puis je l'ai animé via la plateforme <strong>PlayCanvas</strong>. Le code est en Javascript. Ce projet m'a ainsi permis de me familiariser avec <strong>WebGL</strong> et plus largement avec la <strong>programmation 3D</strong>.",
+            "img": [
+                {
+                    "src": "train.png",
+                    "alt": "Ordinateur avec un site web contenant un train en 3D."
+                },
+                {
+                    "src": "train1.png",
+                    "alt": "Train en 3D bleu avec des boutons pour changer sa couleur et sa position."
+                },
+                {
+                    "src": "train2.png",
+                    "alt": "Train en 3D jaune avec des boutons pour changer sa couleur et sa position."
+                },
+                {
+                    "src": "train3.png",
+                    "alt": "Train en 3D vert avec des boutons pour changer sa couleur et sa position."
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "3D",
+                "WebGL"
+            ],
+            "software": [
+                "Blender"
+            ],
+            "language": [
+                "JavaScript",
+                "WebGL"
+            ],
+            "links": {
+                "demonstrator": "",
+                "project": "https://playcanv.as/b/w5aoxviz",
+                "file": "",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Carte interactive Voan-Dalana",
+            "date": "Décembre 2022-Février 2023 | IMAC S3",
+            "description": "Voan Dalana, \"graine de voyage\" en malgache, est le nom de cette <strong>application/carte interactive</strong> que j'ai réalisée avec 2 camarades lors du <strong>projet tuteuré</strong> de ma deuxième année à l'IMAC. Cette application met en valeur les images de Marie-Clémence et César PAES (réalisateurs de documentaires), ils ont été nos tuteurs/clients durant ce projet. Nous avons codé l'application en <strong>React</strong> couplé à <strong>Three.js</strong> pour la partie d'interactivité 3D. La carte et les objets ont été réalisés sur <strong>Blender</strong>. Cette application a été conçue pour être utilisée sur une <strong>borne tactile</strong> lors des prochaines expositions et conférences des réalisateurs.",
+            "img": [
+                {
+                    "src": "graine.png",
+                    "alt": "Affiche d'un garçon regardant une femme passer sur un pont, titre Voan Dalana graine de voyage application multimédia interactive pour comprendre Madagascar."
+                },
+                {
+                    "src": "voan1.png",
+                    "alt": "Carte de Madagascar en 3D."
+                },
+                {
+                    "src": "voan2.png",
+                    "alt": "Carte de Madagascar en 3D avec un menu présentant les différents chemins possibles."
+                },
+                {
+                    "src": "voan3.png",
+                    "alt": "Page d'un point de la carte suivant le chemin pirogue, avec des vidéos et des proverbes."
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "3D",
+                "UX Design",
+                "Web"
+            ],
+            "software": [
+                "Blender",
+                "Figma"
+            ],
+            "language": [
+                "Vue.js",
+                "Three.js",
+                "JSON"
+            ],
+            "links": {
+                "demonstrator": "",
+                "project": "https://laterit-ptut.github.io/?fbclid=IwAR0ZoVmmHJnkpJjZYqftmGxNUOt7NaeQ_wkiSH7dxxUrEPZbb7SObGjfAWQ",
+                "file": "",
+                "video": "",
+                "git": "https://github.com/laterit-ptut/laterit-ptut.github.io"
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Find a book",
+            "date": "Mars-Mai 2023 | IMAC S4",
+            "description": "Find a book est un site internet codé en <strong>Vue.js</strong>. Ses données proviennent de l'<strong>API Google Book</strong>. L'objectif de ce projet était notamment de réaliser des <strong>traitements de données calculées</strong> sur les données récupérées d'une API. Le site se devait également d'être <strong>responsive</strong> et d'intégrer le plus de fonctionnalités de Vue possible pour démontrer notre habileté à utiliser ce framework de JavaScript.",
+            "img": [
+                {
+                    "src": "mockup_book.png",
+                    "alt": "Ordinateur sur le site Find A Book."
+                },
+                {
+                    "src": "book1.png",
+                    "alt": "Site internet de recherche le livre accueil."
+                },
+                {
+                    "src": "book2.png",
+                    "alt": "Site internet recherche livres, carrousel sur les sujets d'actualité, en l'occurrence le roi Charles."
+                },
+                {
+                    "src": "book3.png",
+                    "alt": "Site internet de recherche de livre, page des livres à suspense."
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "UX Design",
+                "Web"
+            ],
+            "software": [
+                "Figma"
+            ],
+            "language": [
+                "Vue.js"
+            ],
+            "links": {
+                "demonstrator": "",
+                "project": "https://laurianegelebart.fr/FindABook/",
+                "file": "",
+                "video": "",
+                "git": "https://github.com/LaurianeGelebart/Find_a_book"
+            }
+        },
+        {
+            "display": "KO",
+            "name": "Communication Dackira",
+            "date": "Mars-Mai 2023 | IMAC S4",
+            "description": "Dans le cadre des projets tuteurés de deuxième année de DUT MMI, nous avons réalisé avec mon groupe une <strong>campagne de communication</strong> dans le but de promouvoir notre application Dackira. Cette application était un LSM, dont le but était d'aider les élèves à réviser leurs cours via un système de cartes question/réponse. Nous avons choisi de réaliser notre campagne sur le thème de la série Bref, avec pour slogan \"Bref j'utilise Dackira\". Ainsi, j'ai dans un premier temps designé des bannières publicitaires avec <strong>Affinity Designer</strong>. Puis j'ai écrit, réalisé et monté sur <strong>Audition</strong> un spot radio reprenant les codes de la série.",
+            "img": [
+                {
+                    "src": "mockup_comDac.png",
+                    "alt": "Affiche en dessin vectoriel où un jeune avec un ordinateur est désigné par une flèche qui indique : Bref, lui c'est Ethan pour réviser il utilise Dackira."
+                }
+            ],
+            "tags": [
+                "Communication"
+            ],
+            "software": [
+                "Adobe Audition",
+                "Affinity Designer"
+            ],
+            "language": [],
+            "links": {
+                "demonstrator": "",
+                "project": "",
+                "file": "",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "The colorless journey",
+            "date": "Mars-Mai 2023 | IMAC S4",
+            "description": "The colorless journey est mon projet de fin de semestre en <strong>synthèse d'images et programmation C++</strong> de mon quatrième semestre à l'IMAC. C'est un projet important basé sur les librairies <strong>d'OpenGL</strong>. Le programme est un environnement 3D entièrement réalisé et texturé par moi. Au préalable, les objets ont été modélisés sur Blender et leurs textures dessinées sur Photoshop. J'ai aussi codé le <strong>loader d'objets</strong> ainsi que toutes les interactions et comportements de l'environnement. J'ai ajouté, en bonus, un changement de toutes les textures près de la pierre magique. Cette même pierre magique autour de laquelle gravitent <strong>des boids</strong>, dont le comportement est modifiable grâce à une IHM.",
+            "img": [
+                {
+                    "src": "colorlessAffiche.png",
+                    "alt": "Affiche simple noir et blanche avec des modifs à spiral et le titre The colorless journey : a firefly story"
+                },
+                {
+                    "src": "colorless.png",
+                    "alt": "Luciole en 3D dans un environnement style dessin d'enfant avec un panneau d'information annonçant le nom du jeu."
+                },
+                {
+                    "src": "color2.png",
+                    "alt": "Luciole en 3D dans un environnement style dessin d'enfant sans autre couleur que sa lumière."
+                },
+                {
+                    "src": "color3.png",
+                    "alt": "Luciole en 3D dans un environnement style dessin d'enfant mais coloré cette fois."
+                }
+            ],
+            "tags": [
+                "Programmation",
+                "3D",
+                "OpenGL"
+            ],
+            "software": [
+                "Blender",
+                "Photoshop"
+            ],
+            "language": [
+                "C++",
+                "OpenGL"
+            ],
+            "links": {
+                "demonstrator": "https://www.youtube.com/watch?v=aL8ZIXqWBzw",
+                "project": "",
+                "file": "https://laurianegelebart.fr/projects/colorless.pdf",
+                "video": "",
+                "git": "https://github.com/LaurianeGelebart/The_Colorless_Journey"
+            }
+        },
+        {
+            "display": "KO",
+            "name": "Portfolio NellyAvec2Ailes",
+            "date": "Juillet-Août 2023 | Perso",
+            "description": "Portfolio NellyAvec2Ailes est mon site web personnel que j'ai développé pour présenter mes travaux et projets. Vous le parcourez actuellement !",
+            "img": [
+                {
+                    "src": "manege.png",
+                    "alt": "Image d'un petit manège en 3D."
+                }
+            ],
+            "tags": [
+                "Portfolio",
+                "Web Design"
+            ],
+            "software": [
+                "Figma"
+            ],
+            "language": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "links": {
+                "demonstrator": "",
+                "project": "https://nellyavec2ailes.fr/",
+                "file": "",
+                "video": "",
+                "git": ""
+            }
+        },
+        {
+            "display": "OK",
+            "name": "Décor portfolio en ThreeJS",
+            "date": "Octobre-Novembre 2023 | Perso",
+            "description": "Pour pratiquer et progresser en <strong>Three.js</strong>, j'ai reproduit mon décor d'ouverture de Portfolio en 3D. J'ai modélisé les objets sur <strong>Blender</strong> avant de les intégrer et de leur ajouter de l'interactivité via <strong>Three.js et Vue.js</strong> directement dans mon portfolio. Ce projet est donc accessible via la navbar de ce site en version ordinateur.",
+            "img": [
+                {
+                    "src": "porfolio3D.png",
+                    "alt": "Image d'header du site en 3D"
+                },
+                {
+                    "src": "portfolio2.png",
+                    "alt": "Même décor en 3D mais les lettres du noms ont tournées"
+                },
+                {
+                    "src": "portfolio.png",
+                    "alt": "Page du site version ordinateur, navbar ouverte et décor en 3D du header en dessous, avec écrit Lauriane Gélébart."
+                },
+                {
+                    "src": "portfolio3.png",
+                    "alt": "Même décor en 3D mais version sombre, la lumière de la scène est plus sombre."
+                }
+            ],
+            "tags": [
+                "ThreeJS",
+                "3D interactive",
+                "Blender"
+            ],
+            "software": [
+                "Blender"
+            ],
+            "language": [
+                "Three.js",
+                "Vue.js"
+            ],
+            "links": {
+                "demonstrator": "https://youtu.be/1rxOzZFvUkg",
+                "project": "https://laurianegelebart.fr",
+                "file": "",
+                "video": "",
+                "git": "https://github.com/LaurianeGelebart/PortfolioVueJS.git"
+            }
+        }
+    ]
+}

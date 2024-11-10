@@ -1,0 +1,153 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "lauriane",
+            "rotation" : [
+                0.4624892473220825,
+                0.5348867774009705,
+                -0.5348865985870361,
+                0.46248912811279297
+            ],
+            "scale" : [
+                0.26097533106803894,
+                0.26097530126571655,
+                0.26097530126571655
+            ],
+            "translation" : [
+                -0.07103578746318817,
+                0.3544667661190033,
+                1.061691403388977
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorFactor" : [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "laurianeg\u00e9l\u00e9bart",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.7814190983772278,
+                    0.5158330798149109,
+                    0.004567083436995745,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4101123511791229
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Text",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 8220,
+            "max" : [
+                2.157545566558838,
+                0.05000000447034836,
+                0.8137645721435547
+            ],
+            "min" : [
+                -2.15008282661438,
+                -0.05000000447034836,
+                -0.6495853662490845
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 8220,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 8220,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 14568,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 98640,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 98640,
+            "byteOffset" : 98640,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 65760,
+            "byteOffset" : 197280,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 29136,
+            "byteOffset" : 263040,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 292176,
+            "uri" : "lauriane.bin"
+        }
+    ]
+}
